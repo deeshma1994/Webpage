@@ -1,0 +1,43 @@
+.b1{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-flow: row;
+}
+.b11{
+    margin-top: 20px;
+    display: flex;
+    padding: 2px;
+    flex-flow: row;
+    width: 100%;
+}
+.b13{
+    display:inline;
+    height: 300px;
+}
+.b14{
+    padding: 15px 20px;
+}
+#b15{
+    font-size: 22px;
+    line-height: 32px;
+    display: inline-block;
+    font-weight: 500;
+}
+.b16{
+    position: relative;
+    display: inline-block;
+    margin-right: 8px;
+    margin-left: 60px;
+    font-size: 16px;
+    color: grey;
+    vertical-align: top;
+    padding-top: 7px;
+}
+.b18{
+    float: right;
+}
+.b19{
+    display:inline-block;
+    margin-left: 30px;
+}

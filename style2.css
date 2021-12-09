@@ -1,0 +1,97 @@
+.s1{
+    background-color: white;
+    margin-top: 65px;
+    display: inline-block;
+    width: 100%;
+    height: 60px;
+}
+.s10{
+    
+    display: flex;
+}
+.s11{
+    margin-left: 130px;
+}
+.s12{
+    margin-left: 50px;
+}
+.s13{
+    margin-left: 50px;
+}
+.s14{
+    margin-left: 50px;
+}
+.s15{
+    margin-left: 50px;
+}
+.s16{
+    margin-left: 50px;
+}
+.s17{
+    margin-left: 50px;
+}
+.s18{
+    margin-left: 50px;
+}
+.s19{
+    margin-left: 50px;
+}
+.s20{
+    display: inline;
+}
+.s2{
+    background-color: white;
+    display: inline-flex;
+    width: 100%;
+    font: caption;
+    font-family: 'Times New Roman', Times, serif;
+}
+a.s21{
+    color: black;
+    margin-left: 140px;   
+}
+a.s22{
+    color: black;
+    margin-left: 80px;
+}
+a.s23{
+    color: black;
+    margin-left: 90px;
+}
+.s024:hover>.dropdown-menu{
+    font-size: 15px;
+    margin-left: 400px;
+    display:flex;
+    width: 300px;
+}
+.s024>.dropdown-toggle:active{
+    pointer-events: none;
+}
+#s24{
+    margin-left: 65px;
+    height: 25px;
+    display: block;
+}
+a.s241{
+    color: black;
+}
+a.s25{
+    color: rgb(124, 100, 100);
+    margin-left: 75px;
+}
+a.s26{
+    color: black;
+    margin-left:95px;
+}
+a.s27{
+    color: black;
+    margin-left: 80px;
+}
+a.s28{
+    color: black;
+    margin-left: 80px;
+}
+a.s29{
+    color: black;
+    margin-left: 52px;
+}
