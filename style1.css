@@ -52,12 +52,13 @@ a.t12{
     width: 300px;
 }
 .t3>.dropdown-toggle:active{
-    pointer-events: none;
+    pointer-events:none;
 }
+
 #t31{
     margin-left: 200px;
     margin-top: 12px;
-    color: white;
+    background-color: white;
     width: 120px;
     height: 40px;
 }
@@ -101,4 +102,19 @@ a.t5{
     margin-top: 40px;
     align-items: center;
     overflow: hidden;
+    z-index: -1;
+}
+.a111{
+    background-color: #2874f0;
+    color: white;
+    border: 0px;
+    margin: 0px;
+}
+.a112{
+    display: flex;
+}
+.a113{
+    margin-left: 20px;
+    height: 320px;
+    width: 360px;
 }
